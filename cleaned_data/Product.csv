@@ -1,0 +1,89 @@
+product_id,product,current_retail_price,product_group,product_category,product_type
+1,Brazilian - Organic,$18.00 ,Whole Bean/Teas,Coffee beans,Organic Beans
+2,Our Old Time Diner Blend,$18.00 ,Whole Bean/Teas,Coffee beans,House blend Beans
+3,Espresso Roast,$14.75 ,Whole Bean/Teas,Coffee beans,Espresso Beans
+4,Primo Espresso Roast,$20.45 ,Whole Bean/Teas,Coffee beans,Espresso Beans
+5,Columbian Medium Roast,$15.00 ,Whole Bean/Teas,Coffee beans,Gourmet Beans
+6,Ethiopia,$21.00 ,Whole Bean/Teas,Coffee beans,Gourmet Beans
+7,Jamacian Coffee River,$19.75 ,Whole Bean/Teas,Coffee beans,Premium Beans
+8,Civet Cat,$45.00 ,Whole Bean/Teas,Coffee beans,Premium Beans
+9,Organic Decaf Blend,$22.50 ,Whole Bean/Teas,Coffee beans,Organic Beans
+10,Guatemalan Sustainably Grown,$10.00 ,Whole Bean/Teas,Coffee beans,Green beans
+11,Lemon Grass,$8.95 ,Whole Bean/Teas,Loose Tea,Herbal tea
+12,Peppermint,$8.95 ,Whole Bean/Teas,Loose Tea,Herbal tea
+13,English Breakfast,$8.95 ,Whole Bean/Teas,Loose Tea,Black tea
+14,Earl Grey,$8.95 ,Whole Bean/Teas,Loose Tea,Black tea
+15,Serenity Green Tea,$9.25 ,Whole Bean/Teas,Loose Tea,Green tea
+16,Traditional Blend Chai,$8.95 ,Whole Bean/Teas,Loose Tea,Chai tea
+17,Morning Sunrise Chai,$9.50 ,Whole Bean/Teas,Loose Tea,Chai tea
+18,Spicy Eye Opener Chai,$10.95 ,Whole Bean/Teas,Loose Tea,Chai tea
+19,Dark chocolate,$6.40 ,Whole Bean/Teas,Packaged Chocolate,Drinking Chocolate
+20,Sustainably Grown Organic,$7.60 ,Whole Bean/Teas,Packaged Chocolate,Organic Chocolate
+21,Chili Mayan,$13.33 ,Whole Bean/Teas,Packaged Chocolate,Drinking Chocolate
+22,Our Old Time Diner Blend Sm,$2.00 ,Beverages,Coffee,Drip coffee
+23,Our Old Time Diner Blend Rg,$2.50 ,Beverages,Coffee,Drip coffee
+24,Our Old Time Diner Blend Lg,$3.00 ,Beverages,Coffee,Drip coffee
+25,Brazilian Sm,$2.20 ,Beverages,Coffee,Organic brewed coffee
+26,Brazilian Rg,$3.00 ,Beverages,Coffee,Organic brewed coffee
+27,Brazilian Lg,$3.50 ,Beverages,Coffee,Organic brewed coffee
+28,Columbian Medium Roast Sm,$2.00 ,Beverages,Coffee,Gourmet brewed coffee
+29,Columbian Medium Roast Rg,$2.50 ,Beverages,Coffee,Gourmet brewed coffee
+30,Columbian Medium Roast Lg,$3.00 ,Beverages,Coffee,Gourmet brewed coffee
+31,Ethiopia Sm,$2.20 ,Beverages,Coffee,Gourmet brewed coffee
+32,Ethiopia Rg,$3.00 ,Beverages,Coffee,Gourmet brewed coffee
+33,Ethiopia Lg,$3.50 ,Beverages,Coffee,Gourmet brewed coffee
+34,Jamaican Coffee River Sm,$2.45 ,Beverages,Coffee,Premium brewed coffee
+35,Jamaican Coffee River Rg,$3.10 ,Beverages,Coffee,Premium brewed coffee
+36,Jamaican Coffee River Lg,$3.75 ,Beverages,Coffee,Premium brewed coffee
+37,Espresso shot,$3.00 ,Beverages,Coffee,Barista Espresso
+38,Latte,$3.75 ,Beverages,Coffee,Barista Espresso
+39,Latte Rg,$4.25 ,Beverages,Coffee,Barista Espresso
+40,Cappuccino,$3.75 ,Beverages,Coffee,Barista Espresso
+41,Cappuccino Lg,$4.25 ,Beverages,Coffee,Barista Espresso
+42,Lemon Grass Rg,$2.50 ,Beverages,Tea,Brewed herbal tea
+43,Lemon Grass Lg,$3.00 ,Beverages,Tea,Brewed herbal tea
+44,Peppermint Rg,$2.50 ,Beverages,Tea,Brewed herbal tea
+45,Peppermint Lg,$3.00 ,Beverages,Tea,Brewed herbal tea
+46,Serenity Green Tea Rg,$2.50 ,Beverages,Tea,Brewed Green tea
+47,Serenity Green Tea Lg,$3.00 ,Beverages,Tea,Brewed Green tea
+48,English Breakfast Rg,$2.50 ,Beverages,Tea,Brewed Black tea
+49,English Breakfast Lg,$3.00 ,Beverages,Tea,Brewed Black tea
+50,Earl Grey Rg,$2.50 ,Beverages,Tea,Brewed Black tea
+51,Earl Grey Lg,$3.00 ,Beverages,Tea,Brewed Black tea
+52,Traditional Blend Chai Rg,$2.50 ,Beverages,Tea,Brewed Chai tea
+53,Traditional Blend Chai Lg,$3.00 ,Beverages,Tea,Brewed Chai tea
+54,Morning Sunrise Chai Rg,$2.50 ,Beverages,Tea,Brewed Chai tea
+55,Morning Sunrise Chai Lg,$4.00 ,Beverages,Tea,Brewed Chai tea
+56,Spicy Eye Opener Chai Rg,$2.55 ,Beverages,Tea,Brewed Chai tea
+57,Spicy Eye Opener Chai Lg,$3.10 ,Beverages,Tea,Brewed Chai tea
+58,Dark chocolate Rg,$3.50 ,Beverages,Drinking Chocolate,Hot chocolate
+59,Dark chocolate Lg,$4.50 ,Beverages,Drinking Chocolate,Hot chocolate
+60,Sustainably Grown Organic Rg,$3.75 ,Beverages,Drinking Chocolate,Hot chocolate
+61,Sustainably Grown Organic Lg,$4.75 ,Beverages,Drinking Chocolate,Hot chocolate
+62,Snow Day Hot Chocolate,$3.00 ,Beverages,Drinking Chocolate,Hot chocolate
+63,Carmel syrup,$0.80 ,Add-ons,Flavours,Regular syrup
+64,Hazelnut syrup,$0.80 ,Add-ons,Flavours,Regular syrup
+65,Sugar Free Vanilla syrup,$0.80 ,Add-ons,Flavours,Sugar free syrup
+66,Pumpkin Spice Latte,$4.95 ,Beverages,Coffee,Seasonal drink
+67,Pumpkin Spice Latte Lg,$5.95 ,Beverages,Coffee,Seasonal drink
+68,Happy Holidays hot chocolate,$3.75 ,Beverages,Drinking Chocolate,Seasonal drink
+75,Croissant,$3.25 ,Food,Bakery,Pastry
+70,Cranberry Scone,$3.25 ,Food,Bakery,Scone
+71,Chocolate Croissant,$3.75 ,Food,Bakery,Pastry
+72,Ginger Scone,$3.25 ,Food,Bakery,Scone
+73,Almond Croissant,$3.75 ,Food,Bakery,Pastry
+74,Ginger Biscotti,$3.50 ,Food,Bakery,Biscotti
+69,Hazelnut Biscotti,$3.50 ,Food,Bakery,Biscotti
+76,Chocolate Chip Biscotti,$3.50 ,Food,Bakery,Biscotti
+77,Oatmeal Scone,$3.00 ,Food,Bakery,Scone
+78,Scottish Cream Scone ,$4.50 ,Food,Bakery,Scone
+79,Jumbo Savory Scone,$3.75 ,Food,Bakery,Scone
+80,I Need My Bean! Toque,$23.00 ,Merchandise,Branded,Clothing
+81,I Need My Bean! T-shirt,$28.00 ,Merchandise,Branded,Clothing
+82,I Need My Bean! Diner mug,$12.00 ,Merchandise,Branded,Housewares
+83,I Need My Bean! Latte cup,$14.00 ,Merchandise,Branded,Housewares
+84,Chocolate syrup,$0.80 ,Add-ons,Flavours,Regular syrup
+85,Rio Nights,$6.00 ,Beverages,Coffee,Specialty coffee
+87,Ouro Brasileiro shot,$3.00 ,Beverages,Coffee,Barista Espresso
+88,Ouro Brasileiro shot promo,$2.10 ,Beverages,Coffee,Barista Espresso
+89,Ginger Scone promo,$2.65 ,Food,Bakery,Scone
